@@ -8,7 +8,7 @@ import mddemo.library.com.db.SqlSet;
 /**
  * Author:  梁铖城
  * Email:   1038127753@qq.com
- * Date:    2015年11月22日11:35:18 
+ * Date:    2015年11月22日11:35:18
  * Description:
  */
 public interface Dao {
